@@ -56,11 +56,11 @@
 /* #undef HAVE_DC1394_2 */
 
 /* DirectX */
-#define HAVE_DIRECTX
+/* #undef HAVE_DIRECTX */
 /* #undef HAVE_DIRECTX_NV12 */
-#define HAVE_D3D11
-#define HAVE_D3D10
-#define HAVE_D3D9
+/* #undef HAVE_D3D11 */
+/* #undef HAVE_D3D10 */
+/* #undef HAVE_D3D9 */
 
 /* DirectShow Video Capture library */
 #define HAVE_DSHOW
